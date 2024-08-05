@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Li</h1>
-<h3 align="center">A college student from China</h3>
+<h3 align="center">A college student from China, curious about everything in IT</h3>
 
 <h3 align="left">Already Learned (Partially):</h3>
 <p align="left">
@@ -71,7 +71,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F386451%2Farch_linux_archlinux_icon&psig=AOvVaw1BJaVt7_6feyX72LJw_aP-    &ust=1722916602620000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj6kK2P3IcDFQAAAAAdAAAAABAE" alt="archlinux" width="40" height="40"/> 
+    <img src="https://archlinux.org/favicon.ico" alt="archlinux" width="40" height="40"/> 
   </a>
 </p>
 
